@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Flask + Docker + GHCR + Terraform + Render  hhhhhhhh"
+    return "Flask + Docker + GHCR + Terraform + Render  gfffff"
 
 @app.route("/health")
 def health():
